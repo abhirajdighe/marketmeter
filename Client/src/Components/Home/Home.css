@@ -1,0 +1,3 @@
+.hero::-webkit-scrollbar {
+    display: none;
+  }
